@@ -1,0 +1,64 @@
+body {
+  background-color: snow;
+}
+
+.first {
+  border-top: 2px solid rgba(0, 0, 0, 0.767);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.767);
+  vertical-align: bottom;
+}
+
+.firstImg {
+  border: 2px solid rgba(0, 0, 0, 0.767);
+  padding: 20px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto !important;
+  box-shadow: 0 0 25px darkgray;
+  float: left;
+  margin-top: 150px;
+  margin-bottom: 0;
+  margin-left: 40px;
+}
+
+.textA {
+  border-top: 2px solid rgba(0, 0, 0, 0.767);
+  color: rgba(0, 0, 0, 0.767);
+  float: right;
+  max-width: 40%;
+  display: block;
+  line-height: 1.5;
+  font-style: italic;
+  text-align: left;
+  margin-top: 350px;
+  margin-bottom: 0;
+  margin-right: 70px;
+}
+.textB {
+  color: rgba(0, 0, 0, 0.767);
+  float: right;
+  max-width: 40%;
+  display: block;
+  line-height: 1.5;
+  font-style: italic;
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 0;
+  padding-right: 70px;
+}
+.textC {
+  color: rgba(0, 0, 0, 0.767);
+  float: right;
+  max-width: 40%;
+  display: block;
+  line-height: 1.5;
+  font-style: italic;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 0;
+  margin-right: 70px;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.767);
+}

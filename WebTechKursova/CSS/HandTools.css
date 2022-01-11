@@ -1,0 +1,56 @@
+.HandTools {
+  width: 100%;
+  height: 100vh;
+  background: url(../Images/HandToolsP.jpg);
+  background-size: cover;
+  background-position: center;
+  z-index: 1;
+  margin-bottom: 50px;
+}
+
+div.gallery {
+  margin-right: 5px;
+  margin-top: 15px;
+  margin-left: 140px;
+  margin-bottom: 15px;
+  border: 2px solid black;
+  float: left;
+  width: 200px;
+}
+
+div.gallery img {
+  width: 80%;
+  height: 80%;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+div.text {
+  padding: 15px;
+  text-align: center;
+  font-style: italic;
+  font-size: medium;
+  color: black;
+  padding-bottom: 25px;
+}
+
+.TopText {
+  font-style: italic;
+  font-size: large;
+  text-align: center;
+  z-index: 4;
+}
+.BottomText {
+  font-style: italic;
+  font-size: large;
+  text-align: center;
+  z-index: 4;
+  margin-bottom: 30px;
+}
+
+.MapImage {
+  z-index: 2;
+  margin-left: 500px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}

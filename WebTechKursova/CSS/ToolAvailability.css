@@ -1,0 +1,99 @@
+body {
+  background-color: snow;
+}
+
+.first {
+  vertical-align: middle;
+  margin-top: 220px;
+  margin-bottom: 120px;
+  text-decoration: none;
+  float: right;
+}
+
+.title {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.767);
+  vertical-align: middle;
+  padding: 30px;
+  font-weight: bolder;
+  font-size: 70px;
+  text-decoration: none;
+  margin-left: 35%;
+  margin-bottom: 80px;
+}
+
+.mainTextA {
+  margin-top: 50px;
+  color: rgba(0, 0, 0, 0.767);
+  max-width: 80%;
+  display: block;
+  line-height: 1.5;
+  font-style: italic;
+  text-align: left;
+  text-decoration: none;
+  font-size: medium;
+  padding-left: 15%;
+}
+
+.mainTextB {
+  margin-top: 50px;
+  color: rgba(0, 0, 0, 0.767);
+  max-width: 80%;
+  display: block;
+  line-height: 1.5;
+  font-style: italic;
+  text-align: left;
+  text-decoration: none;
+  font-size: medium;
+  padding-left: 15%;
+}
+
+.mainTextC {
+  margin-top: 50px;
+  color: rgba(0, 0, 0, 0.767);
+  max-width: 80%;
+  display: block;
+  line-height: 1.5;
+  font-style: italic;
+  text-align: left;
+  text-decoration: none;
+  font-size: medium;
+  padding-left: 15%;
+}
+
+.borderBottom {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.767);
+    width: 100%;
+    color: rgba(0, 0, 0, 0);
+    margin-left: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+
+  .title {
+    font-size: 45px;
+    margin-left: 390px;
+  }
+
+  .borderBottom {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.767);
+    width: 10%;
+    color: rgba(0, 0, 0, 0);
+  }
+
+  .mainTextA {
+    float: right;
+    font-size: 19px;
+    padding-left: 400px;
+  }
+  .mainTextB {
+    float: right;
+    font-size: 19px;
+    padding-left: 400px;
+  }
+  .mainTextC {
+    float: right;
+    font-size: 19px;
+    padding-left: 400px;
+  }
+
+}
